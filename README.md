@@ -6,7 +6,7 @@ Instalação👇(Termux)
 
 •pkg install python3
 
-•git clone •https://github.com/weverton3514/CyberX
+•git clone https://github.com/weverton3514/CyberX
 
 •cd CyberX
 
